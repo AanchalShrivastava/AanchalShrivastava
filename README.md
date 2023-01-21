@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AanchalShrivastava
-- 👀 I’m interested in Oracle PL/SQL, SQL,Oracle Apex,Frontenend,database
+- 👀 I’m interested in Oracle PL/SQL, SQL,Oracle Apex,ETL,PYTHON 
 - 🌱 I’m currently learning Oracle Apex,PL/sql
 - 💞️ I’m looking to collaborate on PL/SQL projects,Oralce Apex,HTML,CSS and Javascript projects and Seeking to learn new technology.
 - 📫 How to reach me on shrivastavaaanchal34@gmail.com
